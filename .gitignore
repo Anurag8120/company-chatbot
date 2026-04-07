@@ -4,4 +4,8 @@ __pycache__/
 *.pyc
 .env
 .vscode/
+<<<<<<< HEAD
 Working_of_the_Project.pdf
+=======
+Working_of_the_Project.pdf
+>>>>>>> ad2f7f66a38c67930a5c202ca72a05d0a82daa96
